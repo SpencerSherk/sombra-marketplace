@@ -6,4 +6,4 @@ Written in July 2022 as a project / contract for NYC based VFX studio, Bonfire.n
 
 Received a successful audit from Hashex (https://hashex.org/audits/sombra-nft/)
 
-Deployed on the Binance Smart Chain where it has been succesffuly used by thousands of users.
+Deployed on the Binance Smart Chain where it has been succesfully interacted with by thousands of users.
