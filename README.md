@@ -2,7 +2,7 @@
 
 Smart contract code for Sombra marketplace
 
-Written in July 2022 as a project / contract for NYC based VFX studio, Bonfire.nyc
+Written in July 2022 as a side project / contract for NYC based VFX studio, Bonfire.nyc
 
 Received a successful audit from Hashex (https://hashex.org/audits/sombra-nft/)
 
